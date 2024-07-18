@@ -16,6 +16,7 @@
             "outputPath": "dist/interview-task",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "baseHref": "https://github.com/Ramez-ElRawy/Customers_Transactions",
             "polyfills": [
               "zone.js"
             ],
